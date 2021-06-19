@@ -1,0 +1,13 @@
+package com.rest.webservices.restfulwebservices;
+
+//Controller - handles http requests
+public class HelloWorldController {
+	
+	//GET
+	//URI - /hello-world
+	//method - "Hellow World"
+	public String helloWorld() {
+		return "Hello World";
+	}
+
+}

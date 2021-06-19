@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+
+.login {
+	height: 100vh;
+	background-color: #f8f8f8;
+	display: grid;
+	place-items: center;
+}

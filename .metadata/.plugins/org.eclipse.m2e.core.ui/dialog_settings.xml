@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.dinesh"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="first-web-app"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\Personal\Eclipse WorkSpace Latest\restful-web-services"/>
+			<item value="D:\Personal\Eclipse WorkSpace Latest\05.kubernetes\currency-conversion-service"/>
+			<item value="D:\Personal\Eclipse WorkSpace Latest\05.kubernetes\currency-exchange-service"/>
+			<item value="D:\Personal\Eclipse WorkSpace Latest\springboot-in10steps"/>
+			<item value="D:\Personal\Eclipse WorkSpace Latest\in10steps"/>
+			<item value="D:\Personal\Eclipse WorkSpace Latest\first-spring-boot-app"/>
+			<item value="D:\Personal\Eclipse WorkSpace Latest\Docker\naming-server"/>
+			<item value="D:\Personal\Eclipse WorkSpace Latest\Docker\currency-exchange-service"/>
+			<item value="D:\Personal\Eclipse WorkSpace Latest\Docker\currency-conversion-service"/>
+			<item value="D:\Personal\Eclipse WorkSpace Latest\Docker\api-gateway"/>
+			<item value="D:\Personal\Eclipse WorkSpace Latest\api-gateway"/>
+			<item value="D:\Personal\Eclipse WorkSpace Latest\naming-server"/>
+			<item value="D:\Personal\Eclipse WorkSpace Latest\currency-conversion-service"/>
+			<item value="D:\Personal\Eclipse WorkSpace Latest\currency-exchange-service"/>
+			<item value="D:\Personal\Eclipse WorkSpace Latest\spring-cloud-config-server"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

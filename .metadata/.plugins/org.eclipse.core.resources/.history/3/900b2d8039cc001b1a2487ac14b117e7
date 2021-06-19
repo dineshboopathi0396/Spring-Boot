@@ -1,0 +1,15 @@
+<%@ include file="common/header.jspf" %>
+<%@ include file="common/navigation.jspf" %>
+
+<div class="login">
+<div class="login__container">
+
+	<font color="red">${errorMessage}</font>
+	<form method="post">
+		Name : <input type="text" name="name" />
+		Password : <input type="password" name="password" /> 
+		<button class="btn btn-primary" type="submit">Log in</button>
+	</form>
+	</div>
+</div>
+<%@ include file="common/footer.jspf" %>

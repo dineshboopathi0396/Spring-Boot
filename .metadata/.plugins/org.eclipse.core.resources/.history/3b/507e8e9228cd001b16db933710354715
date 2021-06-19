@@ -1,0 +1,25 @@
+package com.dinesh.junit;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class SampleMathTest {
+
+	SampleMath sample = new SampleMath();
+
+	@Test
+	void sumfor3Numbers() {
+//		fail("Not yet implemented");
+		int result = sample.sum(new int[] { 1, 2, 3 });
+		assertEquals(6, result);
+	}
+
+	@Test
+	void sumfor1Numbers() {
+//		fail("Not yet implemented");
+		int result = sample.sum(new int[] { 3 });
+		assertEquals(3, result);
+	}
+
+}
